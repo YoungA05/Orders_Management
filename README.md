@@ -1,2 +1,2 @@
 # Orders_Management
-This is a simple JavaEE and MongoDB application to manage orders
+This is a simple JavaEE and MongoDB application to manage orders.
